@@ -1,0 +1,19 @@
+p {
+    background-color: indianred;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.bigtext {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 34px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
